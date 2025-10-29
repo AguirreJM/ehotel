@@ -1,4 +1,3 @@
-<!-- Masthead-->
 <header class="masthead">
     <div class="container h-100">
         <div class="row h-100 align-items-center justify-content-center text-center">
@@ -119,4 +118,5 @@
     transform: translateY(-3px);
     box-shadow: 0 10px 30px rgba(201, 160, 99, 0.3);
 }
+
 </style>
