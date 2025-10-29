@@ -14,7 +14,7 @@
     header('location:login.php');
  include('./header.php'); 
  // include('./auth.php'); 
- ?>
+
 
 </head>
 <style>
@@ -128,4 +128,5 @@ window._conf = function($msg='',$func='',$params = []){
       })
   })
 </script>	
+
 </html>
